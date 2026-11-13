@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hotspot Control Pro</string>
+    <string name="noc_subtitle">Tactical Android Tethering &amp; Client Policy Engine</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_bandwidth">Bandwidth</string>
+    <string name="nav_usage">Data Usage</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_refresh_devices">Refresh Connected Devices</string>
+    <string name="action_block_all">Block All Devices</string>
+    <string name="action_allow_trusted">Allow All Trusted</string>
+    <string name="action_pause_all">Pause All Internet</string>
+    <string name="action_resume_all">Resume All Internet</string>
+    <string name="action_tethering_settings">System Hotspot Settings</string>
+    <string name="notification_channel_name">Hotspot Telemetry &amp; Alerts</string>
+    <string name="notification_channel_desc">Real-time notifications for client connections, quota exhaustion, and policy actions</string>
+</resources>

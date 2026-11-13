@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Control Pro",
+  "description": "Advanced Android tethering and hotspot operations center for client discovery, per-device bandwidth shaping, data quota allocation, and network automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
